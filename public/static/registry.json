@@ -1,0 +1,42 @@
+{
+  "issuers": {
+    "0x92C9C2D9cF250118aeB32377fBf05877f51a64dB": {
+      "name": "Massey University",
+      "displayCard": true,
+      "website": "https://www.massey.ac.nz/",
+      "email": "contact@massey.ac.nz",
+      "phone": "+64 6 350 5701",
+      "logo": "/static/images/Massey_logo.png",
+      "id": "massey-registry"
+    },
+    "0x018f5c347fC81a32215867193a8496fb02151880": {
+      "name": "Brandeis University",
+      "displayCard": true,
+      "website": "https://www.brandeis.edu/",
+      "email": "admissions@brandeis.edu",
+      "phone": "+1 (781) 736-3500",
+      "logo": "/static/images/Brandeis_logo.png ",
+      "id": "brandeis-registry"
+    },
+    "0xd17d843EC2E6669424fda8aB9DA8452D100E308b": {
+      "name": "Aarhus University",
+      "displayCard": true,
+      "website": "https://international.au.dk/",
+      "email": "au@au.dk",
+      "phone": "+45 8715 0000",
+      "logo": "/static/images/Aarhus_logo.png",
+      "id": "aarhus-registry",
+      "group": "aarhus-registry"
+    },
+    "0x3fc6E033B4975D5B0E433161901224ad5c4385cC": {
+      "name": "Aarhus University Business Academy",
+      "displayCard": true,
+      "website": "https://international.au.dk/",
+      "email": "funktionellelidelser@auh.rm.dk",
+      "phone": "+45 7846 4310",
+      "logo": "/static/images/Aarhus_logo.png",
+      "id": "aarhus-registry-business-academy",
+      "group": "aarhus-registry"
+    }
+  }
+}

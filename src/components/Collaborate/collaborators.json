@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Espeo Software",
+    "website": "",
+    "name": "Espeo Software",
+    "description": "Provide full STO and ICO Development, Blockchain Development, Consulting and Training, dApp Development, Smart Contracts Development and Audit.",
+    "key": "Espeo",
+    "logo": "/static/images/collaborate/Espeo.svg"
+  },
+  {
+    "id": "Waverley",
+    "website": "",
+    "name": "Waverley",
+    "description": "Provide blockchain development company that helps organizations across industries leverage blockchain technology.",
+    "key": "Waverly",
+    "logo": "/static/images/collaborate/WAV.svg"
+  },
+  {
+    "id": "SheerChain",
+    "website": "",
+    "name": "SheerChain",
+    "description": "Provide robust blockchain solutions that satisfy their clients’ needs and make a beneficial impact on their businesses.",
+    "key": "SheerChain",
+    "logo": "/static/images/collaborate/SChain.svg"
+  }
+]
