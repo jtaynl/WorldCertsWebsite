@@ -73,9 +73,7 @@ const HowItWorks: React.FunctionComponent = () => {
 const AboutSection: React.FunctionComponent = () => (
   <div>
     <div className="row bg-light" id={css.benefits}>
-      <div className={css.main}>
-        <BenefitsSection />
-      </div>
+      <div className={css.main}></div>
     </div>
     <div className="row bg-light" id="how-it-works">
       <div className={css.main}>
