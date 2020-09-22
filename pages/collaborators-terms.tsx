@@ -1,7 +1,7 @@
 import { NextSeo } from "next-seo";
 import React from "react";
 import { CollaboratorsTerms } from "../src/components/Collaborate/CollaboratorsTerms";
-import FooterBar from "../src/components/Layout/FooterBar";
+import {FooterBar} from "../src/components/Layout/FooterBar";
 import NavigationBar from "../src/components/Layout/NavigationBar";
 import { URL } from "../src/config";
 

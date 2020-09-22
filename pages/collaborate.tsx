@@ -2,7 +2,7 @@ import { NextSeo } from "next-seo";
 import React from "react";
 import { connect } from "react-redux";
 import CollaboratePageContainer from "../src/components/Collaborate/CollaboratePageContainer";
-import FooterBar from "../src/components/Layout/FooterBar";
+import { FooterBar } from "../src/components/Layout/FooterBar";
 import NavigationBar from "../src/components/Layout/NavigationBar";
 import { URL } from "../src/config";
 

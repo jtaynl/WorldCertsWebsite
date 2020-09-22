@@ -1,7 +1,7 @@
 import { useRouter } from "next/router";
 import React, { useEffect } from "react";
 import { connect } from "react-redux";
-import FooterBar from "../src/components/Layout/FooterBar";
+import {FooterBar} from "../src/components/Layout/FooterBar";
 import NavigationBar from "../src/components/Layout/NavigationBar";
 import MainPageContainer from "../src/components/MainPageContainer";
 import {
