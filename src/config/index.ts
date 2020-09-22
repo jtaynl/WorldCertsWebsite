@@ -43,7 +43,7 @@ export const DEFAULT_SEO = {
       "Whether you're a student or an employer, WorldCerts lets you verify the certificates you have of anyone from any institution. All in one place.",
     images: [
       {
-        url: `${URL}/static/images/opencerts.png`,
+        url: `${URL}/static/images/worldcerts.png`,
         width: 800,
         height: 600,
         alt: "WorldCerts",

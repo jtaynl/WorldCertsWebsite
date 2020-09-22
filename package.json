@@ -27,7 +27,6 @@
     "integration:watch": "nodemon --exec \"npm run integration\" --watch src"
   },
   "dependencies": {
-    "@govtechsg/decentralized-renderer-react-components": "^2.2.1",
     "@types/enzyme": "^3.10.5",
     "@types/google.analytics": "0.0.40",
     "@types/react-google-recaptcha": "^1.1.2",

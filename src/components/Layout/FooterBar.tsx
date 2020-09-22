@@ -9,7 +9,7 @@ export const FooterBar: React.FunctionComponent = () => (
         <div className="col-12 col-md-4 mb-4 mb-md-0">
           <Link href="/">
             <a>
-              <img className={css.logo} src="/static/images/opencertslogo.png" alt="WorldCerts logo" />
+              <img className={css.logo} src="/static/images/worldcertslogo.png" alt="WorldCerts logo" />
             </a>
           </Link>
         </div>
@@ -26,11 +26,7 @@ export const FooterBar: React.FunctionComponent = () => (
                 <a>Collaborate</a>
               </Link>
             </li>
-            <li>
-              <a href="https://go.gov.sg/opencerts-feedback" target="_blank" rel="noopener noreferrer">
-                Feedback
-              </a>
-            </li>
+            <li></li>
           </ul>
         </div>
         <div className="col-12 col-md col-lg-2 mb-4 mb-md-0">
@@ -41,11 +37,7 @@ export const FooterBar: React.FunctionComponent = () => (
                 <a>FAQ</a>
               </Link>
             </li>
-            <li>
-              <a href="https://github.com/OpenCerts" target="_blank" rel="noopener noreferrer">
-                GitHub
-              </a>
-            </li>
+            <li></li>
           </ul>
         </div>
         <div className="col-12 col-md col-lg-2 mb-4 mb-md-0">
