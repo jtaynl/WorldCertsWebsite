@@ -31,16 +31,16 @@ export const LEGACY_OPENCERTS_RENDERER = publicRuntimeConfig.legacyRendererUrl |
 export const ENVIRONMENT = publicRuntimeConfig.context === "production" ? "production" : "development";
 
 export const DEFAULT_SEO = {
-  title: "An easy way to check and verify your certificates",
+  title:
+    "Worldcerts is the easiest way to check and verify academic Credentials and professional certifications genuineness from any institutions.",
   titleTemplate: `WorldCerts - %s`,
-  description:
-    "Whether you're a student or an employer, WorldCerts lets you verify the certificates you have of anyone from any institution. All in one place.",
+  description: "",
   openGraph: {
     type: "website",
     url: URL,
-    title: "Worldcerts - An easy way to check and verify your certificates",
+    title: "Worldcerts - The Global Blockchain Credentials & Certificates Verification",
     description:
-      "Whether you're a student or an employer, WorldCerts lets you verify the certificates you have of anyone from any institution. All in one place.",
+      "Worldcerts is the easiest way to check and verify academic Credentials and professional certifications genuineness from any institutions.",
     images: [
       {
         url: `${URL}/static/images/worldcerts.png`,

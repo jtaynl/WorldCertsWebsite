@@ -61,7 +61,7 @@ export const FooterBar: React.FunctionComponent = () => (
       <div className="row">
         <div className="col-12">
           <hr />
-          <p>Copyright © 2020 Worldcerts</p>
+          <p>Copyright © Worldcerts</p>
         </div>
       </div>
     </div>
